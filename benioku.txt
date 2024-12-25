@@ -1,0 +1,1 @@
+Komut isteminde mingw32-make komutuyla çalıştırılır. Büyük dosyaları da okuyacak şekilde çalışabilir.
